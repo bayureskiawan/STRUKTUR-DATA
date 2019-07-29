@@ -1,7 +1,7 @@
 <html>
 <body bgcolor=black>
 <font color=green>
-<marquee><h1>WELCOME TO MY GITHUB REPOSITORY</h1></marquee>
+<marquee><h1>WELCOME TO MY GITHUB</h1></marquee>
 <br>
   <a href="http://istn.ac.id"><img src="index.png"></a>
 <pre>
